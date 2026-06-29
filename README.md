@@ -28,5 +28,3 @@ I'm passionate about quantitative finance and building data-driven solutions for
 - 📺 Anime Enthusiast (currently watching: "A Record of a Mortal's Journey to Immortality")
 - ⚔️ Clash Royale Grinder — Trophy: 14,000 | Top ladder finish: Top 100 HK | Favourite Deck: P.E.K.K.A. Bridge Spam
 - 🏋️ Gym 3-5x/week — because studying requires stamina too (beginner)
-
-> *"The market is always right — until the model says otherwise."*

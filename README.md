@@ -10,7 +10,7 @@ I'm passionate about quantitative finance and building data-driven solutions for
 
 - 🔭 Currently working on: UROP research 
 - 🌱 Learning: Dynamic Graph Embedding, denoising
-- 💼 Aspiring: Quant Trader / Quant Researcher at a top quant firm (Making BIG Money)
+- 💼 Aspiring: Quant Trader / Quant Researcher at a top quant firm
 - 🎯 Interests: Time series analysis, causal inference, trading strategy development
 
 ---

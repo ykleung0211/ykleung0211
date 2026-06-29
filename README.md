@@ -1,4 +1,4 @@
-# Hi, I'm sky 👋
+# Hi, I'm Sky 👋
 
 🎓 Upcoming Year 2 student at **HKUST** — Triple Major in Quantitative Finance, Mathematics & Computer Science (Expected 2029)
 
@@ -25,8 +25,8 @@ I'm passionate about quantitative finance and building data-driven solutions for
 
 ## 🎮 More About Me
 
-- 📺 Anime enthusiast (currently watching: "A Record of a Mortal's Journey to Immortality")
-- ⚔️ Clash Royale Grinder — Trophy: 14,000 | Top ladder finish: Top 10000 Worldwide | Favourite Deck: P.E.K.K.A. Bridge Spam
-- 🏋️ Gym 0-5x/week — because quant requires stamina too
+- 📺 Anime Enthusiast (currently watching: "A Record of a Mortal's Journey to Immortality")
+- ⚔️ Clash Royale Grinder — Trophy: 14,000 | Top ladder finish: Top 100 HK | Favourite Deck: P.E.K.K.A. Bridge Spam
+- 🏋️ Gym 3-5x/week — because quant requires stamina too
 
 > *"The market is always right — until the model says otherwise."*

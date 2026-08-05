@@ -1,6 +1,6 @@
 # Hi there, I'm Sky 👋
 
-🎓 Upcoming Year 2 student at **HKUST** — Major in Quantitative Finance (Expected graduate in 2029)
+🎓 Upcoming Year 2 student at **HKUST** — Double Major in Quantitative Finance and Mathematics (Expected graduate in 2029)
 
 ---
 

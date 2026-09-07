@@ -1,6 +1,6 @@
 # Hi there, I'm Sky 👋
 
-🎓 Upcoming Year 2 student at **HKUST** — Double Major in Quantitative Finance and Mathematics (Expected graduate in 2029)
+🎓 Year 2 student at **HKUST** — Triple Major in Quantitative Finance, Mathematics and Computer Science (Expected graduate in 2029)
 
 ---
 
@@ -29,5 +29,5 @@ I'm passionate about quantitative finance and building data-driven solutions for
 ## 🎮 More About Me
 
 - 📺 Anime Enthusiast (currently watching: "凡人修仙傳")
-- ⚔️ Clash Royale Grinder — Trophy: 14,000 | Top ladder finish: Top 100 HK | Favourite Deck: P.E.K.K.A. Bridge Spam
+- ⚔️ Clash Royale Grinder — Top ladder finish: Top 100 HK | Favourite Deck: P.E.K.K.A. Bridge Spam
 - 🏋️ Gym 3-5x/week — (beginner)

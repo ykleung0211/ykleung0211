@@ -9,7 +9,7 @@
 I'm passionate about quantitative finance and building data-driven solutions for financial markets. I'm actively exploring quant trading strategies, statistical modeling, and machine learning applications in finance.
 
 - 🔭 Currently working on: UROP research at HKUST 
-- 🌱 Learning: Dynamic Graph Embedding (DySAT/TGAT)
+- 🌱 Learning: Granger Causality
 - 🎯 Interests: Time series analysis, causal inference, trading strategy development
 
 ---
@@ -28,6 +28,6 @@ I'm passionate about quantitative finance and building data-driven solutions for
 
 ## 🎮 More About Me
 
-- 📺 Anime Enthusiast (currently watching: "凡人修仙傳")
+- 📺 Anime Enthusiast 
 - ⚔️ Clash Royale Grinder — Top ladder finish: Top 100 HK | Favourite Deck: P.E.K.K.A. Bridge Spam
 - 🏋️ Gym 3-5x/week — (beginner)
